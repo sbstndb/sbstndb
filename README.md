@@ -1,8 +1,26 @@
-### Hi there 👋
+### Hi there 👾
+
+I am an HPC enthousiast with a background in Applied Physics. I love _Simulations_ **AND** _Performance_. I mainy have fun with CPU and GPU hardware.  
+I hold an MSc in High Performance Computing & Simulation from Paris-Saclay University, and I also have a MSc in Modeling and Simulation in Structural Mechanics and Coupled Systems from ENS Paris-Saclay and CentraleSupelec (France)
+
+### Interests
+
+- Benchmarking and profiling HPC codes
+- Hybrid thread/process computing
+- Low Latency/High Performance calculation
+
+### Languages
+-  C/C++
+-  Julia
+-  Python
+-  Bash
 
 ---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sbstndb&label=Profile%20views&color=0e75b6&style=flat" alt="fionasa" /> </p>
+
 ---
+
 <div align="center">
   <a href="https://github.com/sbstndb/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=sbstndb&show_icons=true&count_private=true&hide_border=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be" align="center"/>
